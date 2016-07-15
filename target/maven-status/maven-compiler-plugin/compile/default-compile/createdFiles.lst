@@ -1,0 +1,8 @@
+com\goeuro\test\reader\URLReader.class
+com\goeuro\test\model\CityDetailsPOJO$GeoPosition.class
+com\goeuro\test\exception\ArgumentMissingException.class
+com\goeuro\test\reader\URLReader$1.class
+com\goeuro\test\model\CityDetailsPOJO.class
+com\goeuro\test\exception\NoCityDetailsFoundException.class
+com\goeuro\test\reader\CsvFileWriter.class
+com\goeuro\test\main\GoEuroExecutor.class
